@@ -1,6 +1,6 @@
 cask "dockbar" do
-  version "0.9.3,4"
-  sha256 "c1c661f0be8e687ab7b4568cff10eacdb1544595ca0e0e8b91cf449068ceab69"
+  version "0.9.4,5"
+  sha256 "4aefb7400bd76b94cbbc7e10b1accd0f91fd6d8e2155e255efa86a0d15f7639c"
 
   url "https://limedot.io/dockbar/download/DockBar-#{version.csv.first}-#{version.csv.second}.dmg"
   name "DockBar"
