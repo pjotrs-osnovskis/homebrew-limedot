@@ -1,8 +1,8 @@
 cask "dockbar" do
-  version "0.9.1,2"
-  sha256 "74da9909cbe8293a83f088bb37d9c48c66e05bf93d6a09186fda83575c537eac"
+  version "0.9.2,3"
+  sha256 "db04872dddc75e2bac8a608890bfaf94d5ae53b77cc66e52db42171ce5aab4d8"
 
-  url "https://limedot.io/dockbar/download/brew/DockBar-#{version.csv.first}-#{version.csv.second}.dmg"
+  url "https://limedot.io/dockbar/download/DockBar-#{version.csv.first}-#{version.csv.second}.dmg"
   name "DockBar"
   desc "Widgets in the empty space beside the Dock"
   homepage "https://limedot.io/dockbar/"
